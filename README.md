@@ -1,4 +1,11 @@
-### Hi there 👋
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/adam-smith-b717b2104)
+
+Senior Software Engineer working in web development. My primary language is TypeScript but I also like to use other languages in my free time like C#, Rust, and Go.
+
+- 🔭 I’m currently working on a fully automated automobile insurance quoting platform using TypeScript, Temporal, and XState at Salty Insurance/CDK Global.
+- 🌱 I’m currently learning Rust & Go, Neovim/Vim keybinds in VSCode, and trying to come up with a personal tool/project to work on in my free time. I'd like to build some kind of TypeScript tool that could benefit me at work.
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/adam-smith-b717b2104) / adamjsmith117@gmail.com
+- ⚡ Fun fact: I like to build and collect custom mechanical keyboards
 
 <!--
 **adamjsmith117/adamjsmith117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
