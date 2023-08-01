@@ -1,7 +1,6 @@
-Senior Software Engineer working in web development using primarily TypeScript.
+Software Engineer working in web development using primarily TypeScript.
 
-- 🔭 I’m currently working an automated insurance quoting platform using Temporal and XState.
-- 🌱 I’m currently learning Rust, Go, and Vim keybinds.
+- 🌱 I’m currently learning Go and Vim keybinds.
 - 📫 How to reach me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/adam-smith-b717b2104)
 [![Static Badge](https://img.shields.io/badge/Gmail-adamjsmith117%40gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adamjsmith117@gmail.com)
