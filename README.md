@@ -1,5 +1,6 @@
 Software Engineer working in web development using primarily TypeScript.
 
+- 🔭 I’m currently working on an embedded insurance platform for Embedded Insurance, Inc.
 - 🌱 I’m currently learning Go and Vim keybinds.
 - 📫 How to reach me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/adamjsmith117)
