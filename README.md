@@ -1,7 +1,7 @@
 Software Engineer working in web development using primarily TypeScript.
 
-- 🔭 I’m currently working on an embedded insurance platform for Embedded Insurance, Inc.
-- 🌱 I’m currently learning Effect-TS and Vim keybinds.
+- 🔭 I’m currently working on an embedded insurance platform, making heavy use of Temporal and XState, for Embedded Insurance, Inc.
+- 🌱 I’m currently learning Effect-TS, Vim keybinds/motions, and have recently started to play around with OCaml.
 - 📫 How to reach me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-adamjsmith117-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/adamjsmith117)
 [![Static Badge](https://img.shields.io/badge/Gmail-adamjsmith117-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adamjsmith117@gmail.com)
