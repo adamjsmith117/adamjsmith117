@@ -1,6 +1,6 @@
 Software Engineer working in web development using primarily TypeScript.
 
-- 🔭 I’m currently working on an embedded insurance platform, making heavy use of [Temporal](https://temporal.io/), [XState](https://xstate.js.org/), and [Effect-TS](https://effect.website/) for Embedded Insurance, Inc.
+- 🔭 I’m currently making heavy use of [Temporal](https://temporal.io/), [XState](https://xstate.js.org/), and [Effect](https://effect.website/) working for [Embedded Insurance®](https://www.embeddedinsurance.com/).
 - 📫 How to reach me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-adamjsmith117-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/adamjsmith117)
 [![Static Badge](https://img.shields.io/badge/Gmail-adamjsmith117-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adamjsmith117@gmail.com)
