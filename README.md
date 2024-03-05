@@ -1,6 +1,6 @@
 Software Engineer working in web development using primarily TypeScript.
 
-- 🔭 I’m currently making heavy use of [Temporal](https://temporal.io/), [XState](https://xstate.js.org/), [Effect](https://effect.website/), and various LLM tools working as a Lead Software Engineer for [Embedded Insurance™](https://www.embeddedinsurance.com/).
+- 🔭 I’m currently working as a Lead Software Engineer making heavy use of [Temporal](https://temporal.io/), [XState](https://xstate.js.org/), [Effect](https://effect.website/), and various LLM tools for [Embedded Insurance™](https://www.embeddedinsurance.com/).
 - 📫 How to reach me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/adamjsmith117)
 [![Static Badge](https://img.shields.io/badge/Gmail-adamjsmith117-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adamjsmith117@gmail.com)
